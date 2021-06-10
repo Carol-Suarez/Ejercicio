@@ -1,1 +1,6 @@
 subiendo archivos
+el circuito es:
+    Git add .
+    Git Commit -m "nombre de commit"
+    Git Push Origin Main
+    
